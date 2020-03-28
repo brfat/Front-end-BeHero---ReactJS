@@ -1,8 +1,8 @@
 Projeto Be the Hero feito com React JS - semana Omnistack
 
-Tecnologias e conceitos utilizadas:
+Tecnologias e conceitos utilizados:
 
-React Hooks (useState, useEffect)
+React Hooks
 
 React Router Dom
 
